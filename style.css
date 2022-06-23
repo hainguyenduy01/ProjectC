@@ -8,6 +8,14 @@ h1 {
     font-size: 30px;
 }
 
+<<<<<<< HEAD
+=======
+nav{
+	color: #ffffff;
+	padding: 30px;
+	font-size: 25px;
+}
+>>>>>>> 938a3cdeae41bed602fae10cf12170345552ead1
 .menu {
     color: #ffffff;
     font-size: 16px;
@@ -41,5 +49,10 @@ h1 {
 }
 
 .h1 {
+<<<<<<< HEAD
     color: #fff;
 }
+=======
+	color: #fff;
+}
+>>>>>>> 938a3cdeae41bed602fae10cf12170345552ead1
