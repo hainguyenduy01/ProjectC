@@ -7,12 +7,11 @@ h1 {
 	font-size: 30px;
 }
 
-<<<<<<< HEAD
 nav{
 	color: #ffffff;
 	padding: 30px;
 	font-size: 25px;
-=======
+}
 .menu {
 	color: #ffffff;
 	font-size: 16px;
@@ -20,5 +19,4 @@ nav{
 }
 .h1 {
 	color: #fff;
->>>>>>> 300133086a87917fdd816ecb18f4ae77000872cb
 }
