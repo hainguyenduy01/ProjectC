@@ -2,13 +2,23 @@
 	padding: 0;
 	margin: 0;
 }
-h1{
+h1 {
 	color: blue;
 	font-size: 30px;
 }
 
+<<<<<<< HEAD
 nav{
 	color: #ffffff;
 	padding: 30px;
 	font-size: 25px;
+=======
+.menu {
+	color: #ffffff;
+	font-size: 16px;
+	padding: 20px;
+}
+.h1 {
+	color: #fff;
+>>>>>>> 300133086a87917fdd816ecb18f4ae77000872cb
 }
