@@ -41,7 +41,7 @@ h1 {
 }
 
 .h1 {
-	color: #fff;
+	color: red;
 }
 h2 {
 	background-color: #fff;
@@ -57,4 +57,3 @@ h3 {
 	color: white;
 	bottom: 2;
 }
-
