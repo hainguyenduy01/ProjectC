@@ -47,12 +47,13 @@ h2 {
 	background-color: #fff;
 	font-size: 28px;
 }
-.carousel img{
- width: 100%;
+.carousel img {
+	width: 100%;
 }
 h6 {
 	color: #fff;
 }
-h3{
+h3 {
 	color: white;
+	bottom: 2;
 }
